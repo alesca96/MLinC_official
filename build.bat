@@ -12,6 +12,7 @@ cl ^
 /O2 ^
 /EHsc ^
 /nologo ^
+/TC ^
 gdi32.lib ^
 msvcrt.lib ^
 raylib.lib ^
