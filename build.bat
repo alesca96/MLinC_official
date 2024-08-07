@@ -12,14 +12,13 @@ cl ^
 /O2 ^
 /EHsc ^
 /nologo ^
-/TC ^
 gdi32.lib ^
 msvcrt.lib ^
 raylib.lib ^
 winmm.lib ^
 user32.lib ^
 shell32.lib ^
-.\source\*.cpp ^
+.\source\*.c ^
 /I:.\include ^
 /Fo.\bin\release\obj\ ^
 /Fd.\bin\release\vc140.pdb ^
